@@ -17,12 +17,12 @@ All asset paths are relative, so both repository and custom-domain Pages sites w
 
 ## Editing
 
-- Wedding copy, contacts, and venue link: `index.html`.
+- Wedding copy and contacts: `index.html`.
 - Colors, layout, and typography: `styles.css`.
 - Calendar start time: `assets/gelo-and-rore.ics`. It is 12:00 noon in the Philippines (04:00 UTC) on November 21, 2026, as confirmed by the couple.
 - Invitation image: `assets/invitation.png`. This is the available Canva slide 2 preview. Replace it with a higher-resolution export of the same slide for sharper artwork; preserve its filename or update the image path.
 
-RSVP buttons open the visitor's messaging app; phone links open their dialer. The site does not collect or store responses. Desktop visitors can use the displayed phone numbers. The venue link opens a Google Maps search, not a verified location pin.
+RSVP buttons open the visitor's messaging app; phone links open their dialer. The site does not collect or store responses. Desktop visitors can use the displayed phone numbers.
 
 The Canva RSVP deadline typo “206” is rendered as 2026. The draft program's afternoon times are omitted because they conflict with the confirmed noon invitation time. Palette colors are presented as the celebration's palette, not mandatory guest attire colors. Google Fonts needs an internet connection; built-in serif/sans-serif fallbacks are provided.
 
