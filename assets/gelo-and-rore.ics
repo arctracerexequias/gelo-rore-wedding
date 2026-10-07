@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gelo and Rore//Wedding//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:gelo-rore-20261121-wedding
+DTSTAMP:20261007T000000Z
+DTSTART:20261121T040000Z
+SUMMARY:Gelo & Rore's Wedding
+LOCATION:Zion’s Event Place\, San Pedro\, Laguna
+DESCRIPTION:Celebrate Gelo and Rore's wedding. Starts at 12:00 noon Philippine time.
+END:VEVENT
+END:VCALENDAR
