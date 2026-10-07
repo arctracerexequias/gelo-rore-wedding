@@ -32,3 +32,14 @@
 .venue-map-copy>p:not(.eyebrow){max-width:340px;color:var(--muted);font-size:12px}
 .venue-map iframe{display:block;width:100%;aspect-ratio:16 / 10;border:6px solid #fffaf0;box-shadow:0 8px 26px #66542b18}
 @media(max-width:620px){.venue-map{grid-template-columns:1fr;gap:24px}.venue-map-copy{text-align:center}.venue-map-copy>p:not(.eyebrow){margin-left:auto;margin-right:auto}}
+
+.gifts{text-align:center;border-top:1px solid var(--line)}
+.gifts h2{max-width:650px;margin:0 auto 18px}
+.gifts-intro{max-width:520px;margin:0 auto 34px;color:var(--muted);font-size:12px}
+.gift-options{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:40px;max-width:720px;margin:0 auto;text-align:left}
+.gift-option{padding-top:18px;border-top:1px solid var(--line)}
+.gift-option h3{font:italic 26px var(--serif);margin:0 0 12px}
+.gift-option p{color:var(--muted);font-size:11px}
+.gift-qr-image{display:block;width:100%;max-width:320px;height:auto;margin:0 auto}
+@media(max-width:620px){.gift-options{grid-template-columns:1fr;gap:26px}}
+

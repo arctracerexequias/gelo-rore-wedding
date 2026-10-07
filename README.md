@@ -4,11 +4,11 @@ A responsive, static wedding front page based on the supplied Canva invitation (
 
 ## Preview
 
-Open `index.html` in your browser, or run `python -m http.server 8000` in this folder and visit http://localhost:8000.
+Open `index.html` in your browser, or run `python -m http.server 8000` in this folder and visit http://localhost:8000. The cover page links to the full wedding site in `invitation.html`.
 
 ## Publish on GitHub Pages
 
-1. Create a GitHub repository and upload `index.html`, `styles.css`, `script.js`, `.nojekyll`, and the entire `assets` folder. Keep `index.html` at the repository root.
+1. Create a GitHub repository and upload `index.html`, `invitation.html`, `landing.css`, `styles.css`, `script.js`, `.nojekyll`, and the entire `assets` folder. Keep both HTML pages at the repository root.
 2. In the repository, open **Settings → Pages**.
 3. Select **Deploy from a branch**, choose **main** and **/ (root)**, then save.
 4. GitHub will display your live website link when deployment finishes, usually `https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/`.
