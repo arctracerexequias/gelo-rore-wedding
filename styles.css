@@ -27,3 +27,8 @@
 @media(max-width:620px){.guest-swatches{gap:12px}}
 
 .guest-attire-illustration{display:block;width:100%;max-width:300px;height:auto;margin:0 auto 20px;mix-blend-mode:multiply}
+
+.venue-map{display:grid;grid-template-columns:.8fr 1.2fr;gap:48px;align-items:center}
+.venue-map-copy>p:not(.eyebrow){max-width:340px;color:var(--muted);font-size:12px}
+.venue-map iframe{display:block;width:100%;aspect-ratio:16 / 10;border:6px solid #fffaf0;box-shadow:0 8px 26px #66542b18}
+@media(max-width:620px){.venue-map{grid-template-columns:1fr;gap:24px}.venue-map-copy{text-align:center}.venue-map-copy>p:not(.eyebrow){margin-left:auto;margin-right:auto}}
