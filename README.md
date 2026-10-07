@@ -20,7 +20,7 @@ All asset paths are relative, so both repository and custom-domain Pages sites w
 - Wedding copy and contacts: `index.html`.
 - Colors, layout, and typography: `styles.css`.
 - Calendar start time: `assets/gelo-and-rore.ics`. It is 4:30 PM in the Philippines (08:30 UTC) on November 21, 2026, as confirmed by the couple.
-- Invitation image: `assets/invitation.png`. This is the available Canva slide 2 preview. Replace it with a higher-resolution export of the same slide for sharper artwork; preserve its filename or update the image path.
+- Invitation image: `assets/invitation-updated.jpeg`. This is the supplied corrected artwork showing 4:30 PM.
 
 RSVP buttons open the visitor's messaging app; phone links open their dialer. The site does not collect or store responses. Desktop visitors can use the displayed phone numbers.
 

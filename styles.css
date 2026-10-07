@@ -18,3 +18,12 @@
 @media(max-width:620px){.wedding-film video{border-width:4px}}
 
 .bridesmaids-illustration{display:block;width:100%;height:auto;margin:20px auto 0;mix-blend-mode:multiply}
+
+.guest-palettes h3{font:italic 26px var(--serif);margin:22px 0 16px}
+.guest-swatches{display:flex;justify-content:center;gap:18px;flex-wrap:wrap}
+.guest-swatches>div{min-width:60px;text-align:center}
+.guest-swatches span{display:block;width:48px;height:58px;border-radius:50% 50% 45% 45%;background:var(--swatch);border:1px solid #383b2d20;margin:0 auto 9px}
+.guest-swatches p{font-size:10px!important;margin:0}
+@media(max-width:620px){.guest-swatches{gap:12px}}
+
+.guest-attire-illustration{display:block;width:100%;max-width:460px;height:auto;margin:0 auto 20px;mix-blend-mode:multiply}
