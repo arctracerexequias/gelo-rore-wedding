@@ -40,6 +40,6 @@
 .gift-option{padding-top:18px;border-top:1px solid var(--line)}
 .gift-option h3{font:italic 26px var(--serif);margin:0 0 12px}
 .gift-option p{color:var(--muted);font-size:11px}
-.gift-qr-image{display:block;width:100%;max-width:320px;height:auto;margin:0 auto}
+.gift-qr-image{display:block;width:100%;max-width:240px;height:auto;margin:0 auto}
 @media(max-width:620px){.gift-options{grid-template-columns:1fr;gap:26px}}
 
